@@ -1,9 +1,9 @@
-# Day #3
 
-### Password Generator
-In this tutorial ([Open in Youtube](https://youtu.be/825u2Puaej0)),  I am gonna showing to you how to build a Password Generator with javascript. this pass generator also have different options to manage password creation❗️
+### Key-Generator
 
+Neste tutorial, vou mostrar como construir um Gerador de Senhas com javascript. este gerador de passes também tem diferentes opções para gerenciar a criação de senhas❗️
 # Screenshot
-Here we have project screenshot :
+
+Aqui temos a captura de tela do projeto:
 
 ![screenshot](screenshot.jpg)
